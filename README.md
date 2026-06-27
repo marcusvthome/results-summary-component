@@ -21,8 +21,8 @@ Esta é minha solução para o [Results summary component challenge no Frontend 
 
 ### Links
 
-- Repositório: [Adicionar URL do repositório]
-- Site no ar: [Adicionar URL do GitHub Pages]
+- Repositório: https://github.com/marcusvthome/results-summary-component
+- Site no ar: https://marcusvthome.github.io/results-summary-component/
 
 ## Meu processo
 
